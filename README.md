@@ -1,9 +1,8 @@
-## Breeze Cursors for Windows
+## Breeze Snow Cursors for Windows
 
 ### Preview
 
 ![](https://raw.githubusercontent.com/KDE/breeze/master/cursors/Breeze/src/cursors.svg)
-![](Assets/Breeze.png)
 ![](Assets/Breeze%20Snow.png)
 
 ### Installation
